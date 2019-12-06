@@ -59,13 +59,25 @@
 	@import 'layout/menu';
 
 nav {
-	background-color: #aff2df;
+	background-color: #4451a1;
 }
 
 #header {
-	background-color: #aff2df ;
+	background-color: #4886bb ;
 }
 
 .post {
 	background-color: #dcffd4;
+}
+
+#footer .copyright {
+	color: #3c3b3b;
+}
+
+.mini-post {
+	background-color: #dcffd4;
+}
+
+.links ul {
+	color: white;
 }
